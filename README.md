@@ -4,3 +4,9 @@
 4.Then we add to staging area using git add .
 5.Then we add to local storage using git commit.
 
+Git Clone
+
+1.First I searched a open source project in github.
+2.Then by using the command git clone i have cloned the project using url.
+
+
